@@ -5,7 +5,6 @@ Welcome to the Large Language Models Learning Repository! This repository is des
 ## Table of Contents
 - [Introduction](#introduction)
 - [Tutorials](#tutorials)
-- [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -26,7 +25,7 @@ To get started with this repository, you'll need to have Python and some essenti
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/LLMs-Exploration.git
+git clone https://github.com/adriacb/LLMs-Exploration.git
 cd LLMs-Exploration
 ```
 
