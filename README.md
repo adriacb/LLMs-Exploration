@@ -15,11 +15,8 @@ Large Language Models (LLMs) have revolutionized the field of Natural Language P
 
 ## Tutorials
 
-1. [Introduction to Transformers](tutorials/01-intro-to-transformers.md)
-2. [Fine-Tuning a Pretrained Model](tutorials/02-fine-tuning.md)
-3. [Text Generation with GPT-3](tutorials/03-text-generation.md)
-4. [Sentiment Analysis with BERT](tutorials/04-sentiment-analysis.md)
-5. [Chatbots with DialoGPT](tutorials/05-chatbots.md)
+1. [Introduction to LLMs](tutorials/01-intro-to-llms.md)
+
 
 These tutorials will cover the fundamentals and practical applications of Large Language Models.
 
