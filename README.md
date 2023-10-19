@@ -26,8 +26,8 @@ To get started with this repository, you'll need to have Python and some essenti
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/LLM-Learning-Repository.git
-cd LLM-Learning-Repository
+git clone https://github.com/yourusername/LLMs-Exploration.git
+cd LLMs-Exploration
 ```
 
 # Install required libraries
