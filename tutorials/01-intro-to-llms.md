@@ -1,8 +1,5 @@
 # Introduction to Large Language Models (LLMs)
 
-## Overview
-This readme document provides an introduction to Large Language Models (LLMs), the driving force behind recent advancements in artificial intelligence. It covers fundamental concepts, LLM architecture, and highlights popular LLMs currently available.
-
 ## Table of Contents
 1. [What Are Large Language Models?](#what-are-large-language-models)
 2. [Language Modeling (LM)](#language-modeling)
@@ -26,7 +23,7 @@ Natural Language Processing (NLP) is an interdisciplinary subfield of linguistic
 - A key tool in NLP applications is language modeling.
 
 ### 1.2. Language Modeling (LM)
-- LM uses statistical and probabilistic techniques to determine the probability of word sequences in sentences, represented as P(x^{(t+1)}|x^{(t)},...,x^{(1)}).
+- LM uses statistical and probabilistic techniques to determine the probability of word sequences in sentences, represented as $P(x^{(t+1)}|x^{(t)},...,x^{(1)})$.
 
 - **Text Corpus:** Language models generate probabilities by learning from one or more text corpora, large structured sets of texts in one or multiple languages.
 
