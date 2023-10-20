@@ -12,12 +12,16 @@ Welcome to the Large Language Models Learning Repository! This repository is des
 
 Large Language Models (LLMs) have revolutionized the field of Natural Language Processing (NLP). They have been used for a wide range of applications, from chatbots and text generation to translation and summarization. In this repository, we provide tutorials and Python code to help you explore and understand LLMs.
 
+## Theory
+
+1. [Introduction to LLMs](info/01-intro-to-llms.md)
+
+
 ## Tutorials
 
-1. [Introduction to LLMs](tutorials/01-intro-to-llms.md)
-
-
 These tutorials will cover the fundamentals and practical applications of Large Language Models.
+
+(TODO)
 
 ## Getting Started
 
