@@ -43,3 +43,4 @@ Natural Language Processing (NLP) is an interdisciplinary subfield of linguistic
 ## 2. General Architecture of LLMs
 
 The early large language models (LLMs) primarily employed RNN models featuring LSTMs and GRUs, as previously mentioned. However, these models encountered difficulties, particularly when it came to handling large-scale NLP tasks. Ironically, this was the precise domain where LLMs were anticipated to shine, prompting the emergence of Transformers.
+
